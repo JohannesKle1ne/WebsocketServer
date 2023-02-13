@@ -8,3 +8,13 @@ C:\Users\jojok\Documents\GitRepositorys\TutorialFiles\Misc\WebSockets\csharp-ser
 C:\Users\jojok\Documents\GitRepositorys\TutorialFiles\Misc\WebSockets\csharp-server\obj\Debug\csharp-server.csproj.CopyComplete
 C:\Users\jojok\Documents\GitRepositorys\TutorialFiles\Misc\WebSockets\csharp-server\obj\Debug\csharp-server.exe
 C:\Users\jojok\Documents\GitRepositorys\TutorialFiles\Misc\WebSockets\csharp-server\obj\Debug\csharp-server.pdb
+C:\Users\jojok\Desktop\WebsocketServer\bin\Debug\csharp-server.exe.config
+C:\Users\jojok\Desktop\WebsocketServer\bin\Debug\csharp-server.exe
+C:\Users\jojok\Desktop\WebsocketServer\bin\Debug\csharp-server.pdb
+C:\Users\jojok\Desktop\WebsocketServer\bin\Debug\websocket-sharp.dll
+C:\Users\jojok\Desktop\WebsocketServer\obj\Debug\csharp-server.csproj.AssemblyReference.cache
+C:\Users\jojok\Desktop\WebsocketServer\obj\Debug\csharp-server.csproj.SuggestedBindingRedirects.cache
+C:\Users\jojok\Desktop\WebsocketServer\obj\Debug\csharp-server.csproj.CoreCompileInputs.cache
+C:\Users\jojok\Desktop\WebsocketServer\obj\Debug\csharp-server.csproj.CopyComplete
+C:\Users\jojok\Desktop\WebsocketServer\obj\Debug\csharp-server.exe
+C:\Users\jojok\Desktop\WebsocketServer\obj\Debug\csharp-server.pdb
